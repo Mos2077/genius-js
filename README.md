@@ -2,7 +2,7 @@
 
 [Versão Online](https://mos2077.github.io/genius-js/)
 
-Uma versão de Genius feita em Javascript criada para testar lógica de programação utilizando esta linguagem, especialmente desenvolvida para um curso em que fui instruido pela [Digital Innovation One](www.dio.me). 
+Uma versão de Genius feita em Javascript criada para testar lógica de programação utilizando esta linguagem, especialmente desenvolvida para um curso em que fui instruido pela [Digital Innovation One](https://www.dio.me). 
 
 ## Como jogar?
 
